@@ -1,0 +1,3 @@
+# Build artifacts (rendered PDF / page previews)
+build/
+.DS_Store
