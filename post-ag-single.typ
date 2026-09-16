@@ -29,27 +29,25 @@
   #place(top + left, dx: 0.35cm, dy: 0.12cm, text(size: 19pt, weight: "bold", fill: white)[#title])
 ]
 
-#let card(fill, body) = [
-  #block(width: 100%, fill: fill, stroke: 0.35pt + gridline, inset: 2pt)[
-    #set text(size: 4.8pt, fill: if fill == darkcard { white } else { ink })
+#let card(background, body) = [
+  #block(width: 100%, fill: background, stroke: 0.35pt + gridline, inset: 2pt)[
+    #set text(size: 4.8pt, fill: if background == darkcard { white } else { ink })
     #align(center)[#body]
   ]
   #v(1.5pt)
 ]
 
-#let small(body) = [#text(size: 4.6pt)[#body]]
-
-#let cell(x, y, w, h, title, body) = [
-  #place(top + left, dx: x, dy: y, block(width: w, height: h, fill: cream, stroke: 0.45pt + gridline, inset: 0pt)[
+#let cell(x, y, width, height, title, body) = [
+  #place(top + left, dx: x, dy: y, block(width: width, height: height, fill: cream, stroke: 0.45pt + gridline, inset: 0pt)[
     #block(width: 100%, fill: pale, inset: 2pt)[#align(center)[#text(size: 4.8pt, weight: "bold", fill: navy)[#title]]]
-    #line(length: w, stroke: 0.45pt + gridline)
+    #line(length: width, stroke: 0.45pt + gridline)
     #block(width: 100%, inset: 2pt)[#body]
   ])
 ]
 
 #let lean-layout(title, problem, solution, offer, advantage, segments, alternatives, metrics, channels, early, costs, revenue, n) = [
   #bg()
-  #header[Lean Startup Canvas]
+  #header(title)
   #cell(0.25cm, 1.05cm, 2.35cm, 2.35cm, [01 Problem])[#problem]
   #cell(2.60cm, 1.05cm, 2.35cm, 2.35cm, [02 Lösung])[#solution]
   #cell(4.95cm, 1.05cm, 3.00cm, 4.35cm, [04 Einzigartiges Angebot])[#offer]
@@ -66,8 +64,26 @@
   #place(bottom + right, dx: -0.32cm, dy: -0.15cm, text(size: 5pt, fill: muted)[#n])
 ]
 
-#let two-cols(a, b) = [
-  #grid(columns: (1fr, 1fr), gutter: 0.12cm)[#a][#b]
+#let two-cols(left, right) = [
+  #grid(columns: (1fr, 1fr), gutter: 0.12cm)[#left][#right]
+]
+
+#let work-question-canvas(n) = [
+  #lean-layout(
+    [Lean Startup Canvas],
+    [#card(blue)[Welches Problem lösen wir für unsere Nutzer?] #card(blue)[Welche Lücken schließen wir für unsere Kunden?]],
+    [#card(blue)[Wie gehen wir auf die Bedürfnisse der Nutzer ein?] #card(blue)[Welches Erlebnis wollen wir Kunden bieten?]],
+    [#card(darkcard)[Was macht unsere Idee einzigartig?] #card(blue)[Was unterscheidet sie von bestehenden Lösungen?]],
+    [#card(blue)[Was haben wir, das andere nicht replizieren oder erwerben können?] #card(blue)[Beispiele: Unser Netzwerk, exklusive Daten oder Ruf]],
+    [#card(blue)[Wer sind unsere Zielnutzer?] #card(blue)[Wer sind unsere Zielkunden?]],
+    [#card(blue)[Wer sind unsere nächsten Konkurrenten?] #card(blue)[Worauf verlassen sich unsere Kunden derzeit?]],
+    [#card(blue)[Wie verfolgen wir unseren Fortschritt?] #card(blue)[Was sind unsere Erfolgskriterien?]],
+    [#card(darkcard)[Wie erreichen wir unsere Zielgruppen?]],
+    [#card(blue)[Wer wird unser Rohprodukt oder unsere Dienstleistung verwenden?] #card(blue)[Wer wird davon profitieren?]],
+    [#card(blue)[Was sind unsere Fixkosten?] #card(blue)[Was sind unsere variablen Kosten?]],
+    [#card(blue)[Wie werden wir Umsatz von unseren Nutzern generieren?] #card(blue)[Tipp: Geh jedes Zielkundensegment durch]],
+    n,
+  )
 ]
 
 // 1 — Title
@@ -77,7 +93,7 @@
 #place(top + left, dx: 1.95cm, dy: 2.75cm, text(size: 28pt, weight: "bold", fill: ink)[DISRUPT])
 #place(top + left, dx: 1.95cm, dy: 4.10cm, text(size: 28pt, weight: "bold", fill: ink)[POST AG])
 #place(top + left, dx: 1.95cm, dy: 7.65cm, text(size: 5.5pt, fill: muted)[Bienias Kamil, Bulut Aylin, Juricevic Mateja, Kern Amelie, Pataki Dániel, Schreiner Patrick])
-#slide-no[1]
+#slide-no(1)
 #pagebreak()
 
 // 2 — Lean Canvas: Peak season, compact state
@@ -94,7 +110,7 @@
   [#card(blue)[Umsatzkonzentrierte Saison-Händler]],
   [#two-cols([#card(blue)[Saisonales Zusatzpersonal] #card(blue)[Überstunden + Wochenenddienste]], [#card(blue)[Ausgeweitetes Monitoring]])],
   [#two-cols([#card(blue)[Peak-Saison (Mengenwachstum)]], [#card(blue)[Premium-/Express-Zuschläge]])],
-  [2]
+  2,
 )
 #pagebreak()
 
@@ -112,7 +128,7 @@
   [#card(blue)[Umsatzkonzentrierte Saison-Händler]],
   [#two-cols([#card(blue)[Saisonales Zusatzpersonal] #card(blue)[Überstunden + Wochenenddienste]], [#card(blue)[Ausgeweitetes Monitoring in Spitzenzeiten]])],
   [#two-cols([#card(blue)[Peak-Saison als größter Umsatztreiber des Jahres (Mengenwachstum)]], [#card(blue)[Premium-/Express-Zuschläge für garantierte Zustelltermine]])],
-  [3]
+  3,
 )
 #pagebreak()
 
@@ -130,7 +146,7 @@
   [#card(blue)[Paketversand & Retouren] #card(blue)[Retourenmanagement und Logistik]],
   [#card(blue)[Fahrzeuge und Energie; IT & Tracking-Systeme; Paketstationen / SB-Zonen; Lager- und Fulfillment-Infrastruktur; Retourenlogistik; internationale Logistik] #card(blue)[Zusteller:innen und Personal]],
   [#card(blue)[Paketversand & Retouren] #card(blue)[Retourenmanagement und Logistik]],
-  [4]
+  4,
 )
 #pagebreak()
 
@@ -148,44 +164,16 @@
   [#card(blue)[Privathaushalte, Berufstätige, urbane Haushalte] #card(blue)[EmpfängerInnen: weniger Abholwege und höhere Flexibilität. Onlinehändler: besseres Zustellerlebnis. Post: effizientere letzte Meile]],
   [#card(blue)[Sortier- und Logistikinfrastruktur, Paketstationen, Empfangsboxen, Filialnetz, Fahrzeuge] #card(blue)[Zustellpersonal, Energie, zusätzliche Zustellvorgänge, Lagerung Pakete, Betrieb der Box-Infrastruktur]],
   [#card(blue)[Paketentgelte der Onlinehändler, Paketversand durch Privatkunden]],
-  [5]
+  5,
 )
 #pagebreak()
 
 // 6 — Lean Canvas: Arbeitsfragen
-#lean-layout(
-  [Lean Startup Canvas],
-  [#card(blue)[Welches Problem lösen wir für unsere Nutzer?] #card(blue)[Welche Lücken schließen wir für unsere Kunden?]],
-  [#card(blue)[Wie gehen wir auf die Bedürfnisse der Nutzer ein?] #card(blue)[Welches Erlebnis wollen wir Kunden bieten?]],
-  [#card(darkcard)[Was macht unsere Idee einzigartig?] #card(blue)[Was unterscheidet sie von bestehenden Lösungen?]],
-  [#card(blue)[Was haben wir, das andere nicht replizieren oder erwerben können?] #card(blue)[Beispiele: Unser Netzwerk, exklusive Daten oder Ruf]],
-  [#card(blue)[Wer sind unsere Zielnutzer?] #card(blue)[Wer sind unsere Zielkunden?]],
-  [#card(blue)[Wer sind unsere nächsten Konkurrenten?] #card(blue)[Worauf verlassen sich unsere Kunden derzeit?]],
-  [#card(blue)[Wie verfolgen wir unseren Fortschritt?] #card(blue)[Was sind unsere Erfolgskriterien?]],
-  [#card(darkcard)[Wie erreichen wir unsere Zielgruppen?]],
-  [#card(blue)[Wer wird unser Rohprodukt oder unsere Dienstleistung verwenden?] #card(blue)[Wer wird davon profitieren?]],
-  [#card(blue)[Was sind unsere Fixkosten?] #card(blue)[Was sind unsere variablen Kosten?]],
-  [#card(blue)[Wie werden wir Umsatz von unseren Nutzern generieren?] #card(blue)[Tipp: Geh jedes Zielkundensegment durch]],
-  [6]
-)
+#work-question-canvas(6)
 #pagebreak()
 
 // 7 — Lean Canvas: Arbeitsfragen duplicate slide preserved from PPTX
-#lean-layout(
-  [Lean Startup Canvas],
-  [#card(blue)[Welches Problem lösen wir für unsere Nutzer?] #card(blue)[Welche Lücken schließen wir für unsere Kunden?]],
-  [#card(blue)[Wie gehen wir auf die Bedürfnisse der Nutzer ein?] #card(blue)[Welches Erlebnis wollen wir Kunden bieten?]],
-  [#card(darkcard)[Was macht unsere Idee einzigartig?] #card(blue)[Was unterscheidet sie von bestehenden Lösungen?]],
-  [#card(blue)[Was haben wir, das andere nicht replizieren oder erwerben können?] #card(blue)[Beispiele: Unser Netzwerk, exklusive Daten oder Ruf]],
-  [#card(blue)[Wer sind unsere Zielnutzer?] #card(blue)[Wer sind unsere Zielkunden?]],
-  [#card(blue)[Wer sind unsere nächsten Konkurrenten?] #card(blue)[Worauf verlassen sich unsere Kunden derzeit?]],
-  [#card(blue)[Wie verfolgen wir unseren Fortschritt?] #card(blue)[Was sind unsere Erfolgskriterien?]],
-  [#card(darkcard)[Wie erreichen wir unsere Zielgruppen?]],
-  [#card(blue)[Wer wird unser Rohprodukt oder unsere Dienstleistung verwenden?] #card(blue)[Wer wird davon profitieren?]],
-  [#card(blue)[Was sind unsere Fixkosten?] #card(blue)[Was sind unsere variablen Kosten?]],
-  [#card(blue)[Wie werden wir Umsatz von unseren Nutzern generieren?] #card(blue)[Tipp: Geh jedes Zielkundensegment durch]],
-  [7]
-)
+#work-question-canvas(7)
 #pagebreak()
 
 // 8 — Prozess
@@ -204,7 +192,7 @@
 #align(center)[#text(size: 8pt, weight: "bold", fill: gold)[04] #v(0.35cm) Lösungsfindung: #v(0.25cm) Bestehende Lösungen beim Unternehmen sowie Alternativen laut Nachrichtenaussendungen recherchiert und passend zum Problem gesucht]])
 #place(top + left, dx: 7.35cm, dy: 3.20cm, block(width: 6.9cm, height: 3.9cm, inset: 4pt)[#set text(size: 7pt) 
 text(weight: "bold")[Quellen:] #v(0.25cm) - Geschäftsbericht/Report Post AG #v(0.2cm) - Presseaussendungen: Post, ORF, APA #v(0.2cm) - Eigene Erfahrungen mit Zustellern #v(0.2cm) - KI-gestützte Websuche])
-#slide-no[8]
+#slide-no(8)
 #pagebreak()
 
 // 9 — Recherche
@@ -217,7 +205,7 @@ text(weight: "bold")[Quellen:] #v(0.25cm) - Geschäftsbericht/Report Post AG #v(
 - Primärquellen: Geschäftsberichte und Unternehmensbeschreibung #linebreak() - Aktuelle Fachpressemeldungen (aus dem Jahr 2025) #linebreak() - KI-gestützte Websuche und Zusammenfassung von Artikeln])
 #place(top + left, dx: 8.85cm, dy: 3.35cm, block(width: 6.25cm, height: 3.15cm, fill: cream, stroke: 0.45pt + gridline, inset: 6pt)[#align(center)[#text(size: 7pt, weight: "bold", fill: navy)[NICHT HILFREICH:]] #v(0.35cm) #set text(size: 6pt)
 - xxx #linebreak() - xxx])
-#slide-no[9]
+#slide-no(9)
 #pagebreak()
 
 // 10 — Closing
@@ -226,4 +214,4 @@ text(weight: "bold")[Quellen:] #v(0.25cm) - Geschäftsbericht/Report Post AG #v(
 #place(top + left, dx: 0.38cm, dy: 0.65cm, rect(width: 1.2cm, height: 7.7cm, fill: navy))
 #place(top + left, dx: 7.15cm, dy: 3.65cm, text(size: 28pt, weight: "bold", fill: ink)[DANKE])
 #place(top + right, dx: -1.35cm, dy: 6.95cm, line(length: 2.65cm, stroke: 1pt + gold))
-#slide-no[10]
+#slide-no(10)
