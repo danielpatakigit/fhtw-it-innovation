@@ -62,8 +62,8 @@
 
 // Picks the largest text size whose measured body fits, then renders it.
 #let cell-body(body, inner-width, maxh) = context {
-  let chosen = 3.0pt
-  for s in (5.0pt, 4.7pt, 4.4pt, 4.1pt, 3.8pt, 3.5pt, 3.2pt, 3.0pt) {
+  let chosen = 3.5pt
+  for s in (5.6pt, 5.3pt, 5.0pt, 4.7pt, 4.4pt, 4.1pt, 3.8pt, 3.5pt) {
     if measure(fit-block(body, s, inner-width)).height <= maxh {
       chosen = s
       break
@@ -77,7 +77,7 @@
     #block(width: 100%, fill: tint, inset: (x: 4pt, y: 2pt))[#align(center)[#text(size: 5pt, weight: "bold", fill: accent)[#title]]]
     #line(length: width, stroke: 0.4pt + gridline)
     #v(1fr)
-    #cell-body(body, width - 0.40cm, height - 0.60cm)
+    #cell-body(body, width - 0.36cm, height - 0.50cm)
     #v(1fr)
   ])
 ]
