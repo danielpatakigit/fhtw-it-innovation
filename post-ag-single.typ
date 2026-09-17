@@ -44,7 +44,7 @@
 ]
 
 #let canvas-card(body, fill: blue) = [
-  #block(width: 100%, fill: fill, stroke: none, inset: (x: 3pt, y: 2.2pt))[
+  #block(width: 100%, fill: pale, stroke: none, inset: (x: 3pt, y: 2.2pt))[
     #align(center)[#body]
   ]
   #v(0.35pt)
@@ -74,8 +74,7 @@
 
 #let cell(x, y, width, height, title, accent, tint, body) = [
   #place(top + left, dx: x, dy: y, block(width: width, height: height, fill: cream, stroke: 0.4pt + gridline, inset: 0pt)[
-    #block(width: 100%, fill: tint, inset: (x: 4pt, y: 2pt))[#align(center)[#text(size: 5pt, weight: "bold", fill: accent)[#title]]]
-    #line(length: width, stroke: 0.4pt + gridline)
+    #block(width: 100%, fill: tint, inset: (x: 4pt, y: 2pt))[#align(center)[#text(size: 6pt, weight: "bold", fill: accent)[#title]]]
     #v(1fr)
     #cell-body(body, width - 0.36cm, height - 0.50cm)
     #v(1fr)
