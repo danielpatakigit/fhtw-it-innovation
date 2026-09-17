@@ -169,25 +169,8 @@
 )
 #pagebreak()
 
-// 4 — Peak season: operative Maßnahmen (restored from original PPTX)
-#bg()
-#place(top + left, dx: 0.70cm, dy: 0.70cm, text(size: 4.8pt, weight: "bold", fill: solution-accent)[SPITZENZEITEN])
-#place(top + left, dx: 0.70cm, dy: 1.18cm, text(size: 18pt, weight: "bold", fill: ink)[Operative Maßnahmen])
-#place(top + left, dx: 0.70cm, dy: 2.30cm, text(size: 7pt, fill: muted)[Bestehende Reaktion auf außergewöhnliches Paketaufkommen.])
-#place(top + left, dx: 0.70cm, dy: 2.90cm, block(width: 14.60cm, height: 4.20cm, fill: navy, inset: 16pt)[
-  #v(0.04cm)
-  #text(size: 5pt, weight: "bold", fill: gold)[KAPAZITÄTSMANAGEMENT]
-  #v(0.28cm)
-  #text(size: 18pt, weight: "bold", fill: white)[Überstunden]
-  #v(0.10cm)
-  #text(size: 18pt, weight: "bold", fill: gold)[\+ Wochenenddienste]
-])
-#place(top + left, dx: 0.70cm, dy: 7.45cm, line(length: 2.10cm, stroke: 1.1pt + solution-accent))
-#place(top + left, dx: 0.70cm, dy: 7.86cm, text(size: 6.5pt, fill: ink)[Die Maßnahme ergänzt saisonales Zusatzpersonal in Spitzenzeiten.])
-#slide-no(4)
-#pagebreak()
 
-// 5 — Lean Canvas: Fulfillment (E-Commerce)
+// 4 — Lean Canvas: Fulfillment (E-Commerce)
 #lean-layout(
   [Lean Startup Canvas],
   [#card(blue)[kein skalierbares Lager für Wachstum] #compact-card[Wettbewerbsdruck durch Lieferstandards, die kleine Händler sonst nicht halten können]],
@@ -201,11 +184,11 @@
   [#card(blue)[Nischenhändler mit saisonalen Stoßzeiten (zB Weihnachtsgeschäft)] #card(blue)[neue Shops in der Wachstumsphase]],
   [#compact-card[Fahrzeuge und Energie; IT & Tracking-Systeme; Paketstationen / SB-Zonen; Lager- und Fulfillment-Infrastruktur; Retourenlogistik; internationale Logistik] #card(blue)[Zusteller:innen und Personal]],
   [#card(blue)[fullfillment Gebühren, Versandgebühren] #card(blue)[Zusatzleistungen wie branding, express etc]],
-  5,
+  4,
 )
 #pagebreak()
 
-// 6 — Lean Canvas: Flexible Empfangsoptionen
+// 5 — Lean Canvas: Flexible Empfangsoptionen
 #lean-layout(
   [Lean Startup Canvas],
   [#compact-card[Empfänger sind zum Zustellzeitpunkt häufig nicht zuhause - eine persönliche Paketübergabe ist nicht möglich.] #compact-card[Fehlgeschlagene Übergaben verursachen zusätzliche Wege, Wartezeit und Aufwand für Empfänger:innen und Post.]],
@@ -219,11 +202,11 @@
   [#card(blue)[Privathaushalte, Berufstätige, urbane Haushalte] #compact-card[EmpfängerInnen: weniger Abholwege und höhere Flexibilität. Onlinehändler: besseres Zustellerlebnis. Post: effizientere letzte Meile]],
   [#card(blue)[Sortier- und Logistikinfrastruktur, Paketstationen, Empfangsboxen, Filialnetz, Fahrzeuge] #card(blue)[Zustellpersonal, Energie, zusätzliche Zustellvorgänge, Lagerung Pakete, Betrieb der Box-Infrastruktur]],
   [#card(blue)[Paketentgelte der Onlinehändler, Paketversand durch Privatkunden]],
-  6,
+  5,
 )
 #pagebreak()
 
-// 7 — Lean Canvas: Sendungsverfolgung
+// 6 — Lean Canvas: Sendungsverfolgung
 #lean-layout(
   [Lean Startup Canvas],
   [#card(blue)[Unklare Informationen zum aktuellen Standort des Pakets.]],
@@ -237,11 +220,11 @@
   [#card(blue)[Personen, die häufig online bestellen und mehrere Pakete erwarten]],
   [#card(blue)[IT-Infrastruktur und Datenverarbeitung.] #card(blue)[Weiterentwicklung der Tracking-Systeme und Post App]],
   [#card(blue)[Höhere Nutzung der Paketdienstleistungen] #card(blue)[Premium-/Express-Zusatzleistungen]],
-  7,
+  6,
 )
 #pagebreak()
 
-// 8 — Prozess
+// 7 — Prozess
 #bg()
 #place(top + left, dx: 0cm, dy: 0cm, rect(width: 6.25cm, height: 9cm, fill: navy))
 #place(top + left, dx: 0.55cm, dy: 0.62cm, text(size: 4.8pt, weight: "bold", fill: gold)[VORGEHEN])
@@ -257,10 +240,10 @@
   #v(0.24cm)
   #text(size: 6.5pt, fill: ink)[Geschäftsbericht und Unternehmensreport der Post AG #v(0.22cm) Presseaussendungen von Post, ORF und APA #v(0.22cm) Eigene Erfahrungen mit Zustellern #v(0.22cm) KI-gestützte Websuche]
 ])
-#slide-no(8)
+#slide-no(7)
 #pagebreak()
 
-// 9 — Recherche
+// 8 — Recherche
 #bg()
 #place(top + left, dx: 0.70cm, dy: 0.62cm, text(size: 4.8pt, weight: "bold", fill: darkcard)[REFLEXION])
 #place(top + left, dx: 0.70cm, dy: 1.05cm, text(size: 17pt, weight: "bold", fill: ink)[RECHERCHE])
@@ -277,14 +260,14 @@
 - Werbe- und Marketingtexte mit wenig verwertbaren Fakten #v(0.16cm)
 - KI-Antworten ohne nachvollziehbare Quellenangabe
 ])])
-#slide-no(9)
+#slide-no(8)
 #pagebreak()
 
-// 10 — Closing
+// 9 — Closing
 #bg()
 #place(top + left, dx: 0cm, dy: 0cm, rect(width: 16cm, height: 9cm, fill: navy))
 #place(top + left, dx: 1.00cm, dy: 1.00cm, text(size: 4.8pt, weight: "bold", fill: gold)[ÖSTERREICHISCHE POST AG / CHALLENGE ASSIGNMENT 01])
 #place(top + left, dx: 1.00cm, dy: 3.25cm, text(size: 31pt, weight: "bold", fill: white)[DANKE])
 #place(top + left, dx: 1.00cm, dy: 5.18cm, line(length: 2.15cm, stroke: 1.2pt + gold))
 #place(top + left, dx: 1.00cm, dy: 6.05cm, text(size: 7pt, fill: rgb("#D8E6EA"))[Nächster Schritt: Probleme priorisieren und weiter untersuchen.])
-#slide-no(10)
+#slide-no(9)
