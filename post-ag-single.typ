@@ -194,67 +194,19 @@
 #place(top + left, dx: 1.30cm, dy: 7.12cm, block(width: 13.95cm, height: 0.70cm, fill: pale, stroke: 0.4pt + gridline, inset: (x: 8pt, y: 4pt))[
   #text(size: 5.2pt, weight: "bold", fill: solution-accent)[SECHSTER CANVAS]
   #h(0.18cm)
-  #text(size: 5.2pt, fill: ink)[Privatpersonen × Versand/Einlieferung — siehe Folie 3.]
+  #text(size: 5.2pt, fill: ink)[Privatpersonen × Versand/Einlieferung — siehe Folie 4.]
 ])
 #slide-no(2)
 #pagebreak()
 
-// 3 — Lean Canvas: Privat Versand / Einlieferung
-#lean-layout(
-  [Privat · Versand: Einlieferung],
-  [#card(blue)[Frankieren und Aufgeben dauert zu lange; Öffnungszeiten passen nicht] #card(blue)[Zustelldatum und Kosten sind vorher unklar]],
-  [#card(blue)[Online frankieren, zuhause drucken, in Filiale/Post-Partner aufgeben] #card(blue)[Paketmarke am Automaten oder in der App]],
-  [#card(darkcard)[Versenden in wenigen Minuten – ohne Papierkram, mit klarem Zustelldatum]],
-  [#card(blue)[Dichtes Filial- und Automatennetz österreichweit] #card(blue)[Zustellung am nächsten Werktag]],
-  [#card(blue)[Privatpersonen, die Pakete an Familie oder Behörden senden]],
-  [#card(blue)[Konkurrenz-Paketdienste mit eigenen Shops] #card(blue)[Privatverkauf über Kleinanzeigen mit Selbstzustellung]],
-  [#card(blue)[Anteil Online-Frankierung; Zustellquote nächster Werktag] #card(blue)[Kundenaufwand in Minuten]],
-  [#card(blue)[Filiale, Post-Partner, Paketautomaten, Online-Portale]],
-  [#card(blue)[Wochenend-Sender:innen ohne Zugang zur Filiale]],
-  [#two-cols([#card(blue)[Filialnetzbetrieb]], [#card(blue)[IT für Online-Frankierung]]) #card(blue)[Zustelllogistik]],
-  [#card(blue)[Paket- und Briefentgelte von Privatkund:innen]],
-  3,
-)
-#pagebreak()
-
-// 4 — Lean Canvas: E-Commerce transport / Spitzenzeiten
-#lean-layout(
-  [E-Commerce · Transport: Spitzenzeiten],
-  [#card(darkcard)[Fehlende Kapazitätsreserven] #card(darkcard)[Rufschädigung von Händlerinnen]],
-  [#card(blue)[Zusätzliche Mitarbeitende] #card(blue)[Überstunden + Wochenenddienste]],
-  [#card(darkcard)[Auch bei Rekordmengen gleichbleibende Zustelltermine]],
-  [#card(blue)[Ganzjährige landesweite Infrastruktur] #card(blue)[Eingespielte Prozesse]],
-  [#card(darkcard)[Große Onlinehändler] #card(blue)[KMU ohne eigene Kapazitätsplanung]],
-  [#card(blue)[Wettbewerber beauftragen] #card(blue)[Frühere Versandtermine]],
-  [#card(blue)[Tagesrekord 2025: 1,65 Mio. Pakete] #card(blue)[\+ 232 Mio. Pakete in 2025 in AT]],
-  [#card(blue)[Frühe Kapazitätsplanung] #card(blue)[Kommunikation von Versandfristen]],
-  [#card(darkcard)[Umsatzkonzentrierte Saison-Händler]],
-  [#two-cols([#card(blue)[Saisonales Zusatzpersonal]], [#card(blue)[Ausgeweitetes Monitoring]]) #card(blue)[Überstunden/ Schichtausweitung]],
-  [#two-cols([#card(blue)[Peak-Saison (Mengenwachstum)]], [#card(blue)[Premium-/Express-Zuschläge]])],
-  4,
-)
-#pagebreak()
-
-// 5 — Lean Canvas: E-Commerce Empfang / Retouren
-#lean-layout(
-  [E-Commerce · Empfang: Retouren],
-  [#card(blue)[Retouren kosten Händler Zeit und Geld] #compact-card[Kund\*innen erwarten einfache Rücksendung]],
-  [#card(blue)[Nationale & Internationale Retouren; sehr detailliertes Postnetz in Österreich] #card(blue)[Business Cockpit, Tracking und Labeling Center]],
-  [#card(darkcard)[Die Post AG übernimmt nicht nur den Versand & die Zustellung, sondern übernimmt auch volle Verantwortung über Retouren.]],
-  [#card(blue)[österreichweites Post-netzwerk] #card(blue)[Vertrauen von österreichischen Kund\*innen]],
-  [#card(blue)[E-Commerce] #card(blue)[Online-Händler]],
-  [#card(blue)[andere Versandservices wie zB. GLS & DPD] #card(blue)[auch Eigenzustellung bei großen Kunden (zB. Amazon)]],
-  [#card(blue)[Retourenquote (54% in 2026)] #card(blue)[Kosten pro Retoure]],
-  [#compact-card[E-commerce-Plattform & Paket-Vertriebsmitarbeiter:innen] #compact-card[Bestehendes österreichweites Post-netzwerk]],
-  [#card(blue)[Kund\*innen mit besonders hoher Retourenrate]],
-  [#compact-card[Fahrzeuge, IT, Lager- und Fulfillment-Infrastruktur, Retourenlogistik] #card(blue)[Zustellpersonal]],
-  [#card(blue)[Paketversand & Retouren] #card(blue)[Retourenmanagement]],
-  5,
-)
-#pagebreak()
 
 
-// 6 — Lean Canvas: E-Commerce Versand / Fulfillment
+
+
+
+
+
+// 3 — Lean Canvas: E-Commerce Versand / Fulfillment
 #lean-layout(
   [E-Commerce · Versand: Fulfillment],
   [#card(blue)[kein skalierbares Lager für Wachstum] #compact-card[Wettbewerbsdruck durch Lieferstandards, die kleine Händler sonst nicht halten können]],
@@ -268,29 +220,47 @@
   [#card(blue)[Nischenhändler mit saisonalen Stoßzeiten (zB Weihnachtsgeschäft)] #card(blue)[neue Shops in der Wachstumsphase]],
   [#compact-card[Fahrzeuge, IT, Lager- und Fulfillment-Infrastruktur, Retourenlogistik] #card(blue)[Zustellpersonal]],
   [#card(blue)[Fulfillment- und Versandgebühren] #card(blue)[Zusatzleistungen wie branding, express]],
-  6,
+  3,
 )
 #pagebreak()
 
-// 7 — Lean Canvas: Privat Empfang / Flexible Übergabe
+// 4 — Lean Canvas: Privat Versand / Einlieferung
 #lean-layout(
-  [Privat · Empfang: Flexible Übergabe],
-  [#compact-card[Empfänger sind zum Zustellzeitpunkt häufig nicht zuhause - eine persönliche Paketübergabe ist nicht möglich.] #compact-card[Fehlgeschlagene Übergaben verursachen zusätzliche Wege, Wartezeit und Aufwand für Empfänger:innen und Post.]],
-  [#card(blue)[Flexible Empfangsoptionen über Post App, Post Account: Wunsch-Platz, Wunsch-Nachbar, Poststation oder Post-Standort.] #card(blue)[Paket sicher und möglichst ohne zusätzlichen Aufwand erhalten]],
-  [#card(darkcard)[“Pakete flexibel empfangen”] #card(blue)[Kombination aus Hauszustellung, Wunsch-Platz, Wunsch-Nachbar, Empfangsbox, Poststation, Filialnetz]],
-  [#compact-card[Bereits vorhandenes flächendeckendes Zustell- und Abholnetz in ganz Österreich.] #compact-card[Was haben wir, das andere nicht replizieren oder erwerben können?]],
-  [#card(blue)[Private Paketempfänger, Online-Shopper] #card(blue)[Onlinehändler]],
-  [#compact-card[DPD, GLS, Amazon Logistics sowie weitere Paketdienste mit Paketshops/-stationen.] #compact-card[NachbarInnen, Abstellgenehmigung/Wunsch-Platz, Poststation, Postfiliale/Postpartner, Empfangsbox oder Paketumleitung.]],
-  [#dense-card[1.596 Poststationen, 188.349 Fächer, 84.546 Empfangsboxen] #dense-card[Erfolgreiche Zustellquote, Nutzung alternativer Optionen, Zufriedenheit]],
-  [#card(darkcard)[Post App, Website, Tracking & digitale Benachrichtigungen]],
-  [#card(blue)[Privathaushalte, Berufstätige, urbane Haushalte] #compact-card[Alle profitieren: weniger Wege, besseres Erlebnis, effizientere letzte Meile]],
-  [#card(blue)[Sortier- und Logistikinfrastruktur, Paketstationen, Empfangsboxen, Filialnetz, Fahrzeuge] #card(blue)[Zustellpersonal, Energie, zusätzliche Zustellvorgänge, Lagerung Pakete, Betrieb der Box-Infrastruktur]],
-  [#card(blue)[Paketentgelte der Händler, Paketversand von Privatkund:innen]],
-  7,
+  [Privat · Versand: Einlieferung],
+  [#card(blue)[Frankieren und Aufgeben dauert zu lange; Öffnungszeiten passen nicht] #card(blue)[Zustelldatum und Kosten sind vorher unklar]],
+  [#card(blue)[Online frankieren, zuhause drucken, in Filiale/Post-Partner aufgeben] #card(blue)[Paketmarke am Automaten oder in der App]],
+  [#card(darkcard)[Versenden in wenigen Minuten – ohne Papierkram, mit klarem Zustelldatum]],
+  [#card(blue)[Dichtes Filial- und Automatennetz österreichweit] #card(blue)[Zustellung am nächsten Werktag]],
+  [#card(blue)[Privatpersonen, die Pakete an Familie oder Behörden senden]],
+  [#card(blue)[Konkurrenz-Paketdienste mit eigenen Shops] #card(blue)[Privatverkauf über Kleinanzeigen mit Selbstzustellung]],
+  [#card(blue)[Anteil Online-Frankierung; Zustellquote nächster Werktag] #card(blue)[Kundenaufwand in Minuten]],
+  [#card(blue)[Filiale, Post-Partner, Paketautomaten, Online-Portale]],
+  [#card(blue)[Wochenend-Sender:innen ohne Zugang zur Filiale]],
+  [#two-cols([#card(blue)[Filialnetzbetrieb]], [#card(blue)[IT für Online-Frankierung]]) #card(blue)[Zustelllogistik]],
+  [#card(blue)[Paket- und Briefentgelte von Privatkund:innen]],
+  4,
 )
 #pagebreak()
 
-// 8 — Lean Canvas: Privat Transport / Sendungsverfolgung
+// 5 — Lean Canvas: E-Commerce transport / Spitzenzeiten
+#lean-layout(
+  [E-Commerce · Transport: Spitzenzeiten],
+  [#card(darkcard)[Fehlende Kapazitätsreserven] #card(darkcard)[Rufschädigung von Händlerinnen]],
+  [#card(blue)[Zusätzliche Mitarbeitende] #card(blue)[Überstunden + Wochenenddienste]],
+  [#card(darkcard)[Auch bei Rekordmengen gleichbleibende Zustelltermine]],
+  [#card(blue)[Ganzjährige landesweite Infrastruktur] #card(blue)[Eingespielte Prozesse]],
+  [#card(darkcard)[Große Onlinehändler] #card(blue)[KMU ohne eigene Kapazitätsplanung]],
+  [#card(blue)[Wettbewerber beauftragen] #card(blue)[Frühere Versandtermine]],
+  [#card(blue)[Tagesrekord 2025: 1,65 Mio. Pakete] #card(blue)[\+ 232 Mio. Pakete in 2025 in AT]],
+  [#card(blue)[Frühe Kapazitätsplanung] #card(blue)[Kommunikation von Versandfristen]],
+  [#card(darkcard)[Umsatzkonzentrierte Saison-Händler]],
+  [#two-cols([#card(blue)[Saisonales Zusatzpersonal]], [#card(blue)[Ausgeweitetes Monitoring]]) #card(blue)[Überstunden/ Schichtausweitung]],
+  [#two-cols([#card(blue)[Peak-Saison (Mengenwachstum)]], [#card(blue)[Premium-/Express-Zuschläge]])],
+  5,
+)
+#pagebreak()
+
+// 6 — Lean Canvas: Privat Transport / Sendungsverfolgung
 #lean-layout(
   [Privat · Transport: Sendungsverfolgung],
   [#card(blue)[Unklare Informationen zum aktuellen Standort des Pakets.]],
@@ -304,6 +274,42 @@
   [#card(blue)[Personen, die häufig online bestellen und mehrere Pakete erwarten]],
   [#card(blue)[IT-Infrastruktur und Datenverarbeitung.] #card(blue)[Weiterentwicklung der Tracking-Systeme und Post App]],
   [#card(blue)[Höhere Nutzung der Paketdienstleistungen] #card(blue)[Premium-/Express-Zusatzleistungen]],
+  6,
+)
+#pagebreak()
+
+// 7 — Lean Canvas: E-Commerce Empfang / Retouren
+#lean-layout(
+  [E-Commerce · Empfang: Retouren],
+  [#card(blue)[Retouren kosten Händler Zeit und Geld] #compact-card[Kund\*innen erwarten einfache Rücksendung]],
+  [#card(blue)[Nationale & Internationale Retouren; sehr detailliertes Postnetz in Österreich] #card(blue)[Business Cockpit, Tracking und Labeling Center]],
+  [#card(darkcard)[Die Post AG übernimmt nicht nur den Versand & die Zustellung, sondern übernimmt auch volle Verantwortung über Retouren.]],
+  [#card(blue)[österreichweites Post-netzwerk] #card(blue)[Vertrauen von österreichischen Kund\*innen]],
+  [#card(blue)[E-Commerce] #card(blue)[Online-Händler]],
+  [#card(blue)[andere Versandservices wie zB. GLS & DPD] #card(blue)[auch Eigenzustellung bei großen Kunden (zB. Amazon)]],
+  [#card(blue)[Retourenquote (54% in 2026)] #card(blue)[Kosten pro Retoure]],
+  [#compact-card[E-commerce-Plattform & Paket-Vertriebsmitarbeiter:innen] #compact-card[Bestehendes österreichweites Post-netzwerk]],
+  [#card(blue)[Kund\*innen mit besonders hoher Retourenrate]],
+  [#compact-card[Fahrzeuge, IT, Lager- und Fulfillment-Infrastruktur, Retourenlogistik] #card(blue)[Zustellpersonal]],
+  [#card(blue)[Paketversand & Retouren] #card(blue)[Retourenmanagement]],
+  7,
+)
+#pagebreak()
+
+// 8 — Lean Canvas: Privat Empfang / Flexible Übergabe
+#lean-layout(
+  [Privat · Empfang: Flexible Übergabe],
+  [#compact-card[Empfänger sind zum Zustellzeitpunkt häufig nicht zuhause - eine persönliche Paketübergabe ist nicht möglich.] #compact-card[Fehlgeschlagene Übergaben verursachen zusätzliche Wege, Wartezeit und Aufwand für Empfänger:innen und Post.]],
+  [#card(blue)[Flexible Empfangsoptionen über Post App, Post Account: Wunsch-Platz, Wunsch-Nachbar, Poststation oder Post-Standort.] #card(blue)[Paket sicher und möglichst ohne zusätzlichen Aufwand erhalten]],
+  [#card(darkcard)[“Pakete flexibel empfangen”] #card(blue)[Kombination aus Hauszustellung, Wunsch-Platz, Wunsch-Nachbar, Empfangsbox, Poststation, Filialnetz]],
+  [#compact-card[Bereits vorhandenes flächendeckendes Zustell- und Abholnetz in ganz Österreich.] #compact-card[Was haben wir, das andere nicht replizieren oder erwerben können?]],
+  [#card(blue)[Private Paketempfänger, Online-Shopper] #card(blue)[Onlinehändler]],
+  [#compact-card[DPD, GLS, Amazon Logistics sowie weitere Paketdienste mit Paketshops/-stationen.] #compact-card[NachbarInnen, Abstellgenehmigung/Wunsch-Platz, Poststation, Postfiliale/Postpartner, Empfangsbox oder Paketumleitung.]],
+  [#dense-card[1.596 Poststationen, 188.349 Fächer, 84.546 Empfangsboxen] #dense-card[Erfolgreiche Zustellquote, Nutzung alternativer Optionen, Zufriedenheit]],
+  [#card(darkcard)[Post App, Website, Tracking & digitale Benachrichtigungen]],
+  [#card(blue)[Privathaushalte, Berufstätige, urbane Haushalte] #compact-card[Alle profitieren: weniger Wege, besseres Erlebnis, effizientere letzte Meile]],
+  [#card(blue)[Sortier- und Logistikinfrastruktur, Paketstationen, Empfangsboxen, Filialnetz, Fahrzeuge] #card(blue)[Zustellpersonal, Energie, zusätzliche Zustellvorgänge, Lagerung Pakete, Betrieb der Box-Infrastruktur]],
+  [#card(blue)[Paketentgelte der Händler, Paketversand von Privatkund:innen]],
   8,
 )
 #pagebreak()
@@ -347,11 +353,11 @@
 #slide-no(10)
 #pagebreak()
 
-// 10 — Closing
+// 11 — Closing
 #bg()
 #place(top + left, dx: 0cm, dy: 0cm, rect(width: 16cm, height: 9cm, fill: navy))
 #place(top + left, dx: 1.00cm, dy: 1.00cm, text(size: 4.8pt, weight: "bold", fill: gold)[ÖSTERREICHISCHE POST AG / CHALLENGE ASSIGNMENT 01])
 #place(top + left, dx: 1.00cm, dy: 3.25cm, text(size: 31pt, weight: "bold", fill: white)[DANKE])
 #place(top + left, dx: 1.00cm, dy: 5.18cm, line(length: 2.15cm, stroke: 1.2pt + gold))
 #place(top + left, dx: 1.00cm, dy: 6.05cm, text(size: 7pt, fill: rgb("#D8E6EA"))[Nächster Schritt: Probleme priorisieren und weiter untersuchen.])
-#slide-no(10)
+#slide-no(11)
