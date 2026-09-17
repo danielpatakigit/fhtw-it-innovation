@@ -179,7 +179,7 @@
   #v(0.06cm)
   #text(size: 4.5pt, fill: muted)[Sender:innen und Empfänger:innen]
 ][
-  #text(size: 5.3pt, weight: "bold", fill: problem-accent)[FEHLT]
+  #text(size: 5.3pt, weight: "bold", fill: solution-accent)[Einlieferung]
   #v(0.06cm)
   #text(size: 4.5pt, fill: ink)[Paket oder Brief einfach aufgeben]
 ][
@@ -192,14 +192,32 @@
   #text(size: 4.5pt, fill: ink)[Pakete passend zum Alltag empfangen]
 ])
 #place(top + left, dx: 1.30cm, dy: 7.12cm, block(width: 13.95cm, height: 0.70cm, fill: pale, stroke: 0.4pt + gridline, inset: (x: 8pt, y: 4pt))[
-  #text(size: 5.2pt, weight: "bold", fill: problem-accent)[FEHLENDER SECHSTER CANVAS]
+  #text(size: 5.2pt, weight: "bold", fill: solution-accent)[SECHSTER CANVAS]
   #h(0.18cm)
-  #text(size: 5.2pt, fill: ink)[Privatpersonen × Versand/Einlieferung — als Nächstes konkretisieren.]
+  #text(size: 5.2pt, fill: ink)[Privatpersonen × Versand/Einlieferung — siehe Folie 3.]
 ])
 #slide-no(2)
 #pagebreak()
 
-// 3 — Lean Canvas: E-Commerce transport / Spitzenzeiten
+// 3 — Lean Canvas: Privat Versand / Einlieferung
+#lean-layout(
+  [Privat · Versand: Einlieferung],
+  [#card(blue)[Frankieren und Aufgeben dauert zu lange; Öffnungszeiten passen nicht] #card(blue)[Zustelldatum und Kosten sind vorher unklar]],
+  [#card(blue)[Online frankieren, zuhause drucken, in Filiale/Post-Partner aufgeben] #card(blue)[Paketmarke am Automaten oder in der App]],
+  [#card(darkcard)[Versenden in wenigen Minuten – ohne Papierkram, mit klarem Zustelldatum]],
+  [#card(blue)[Dichtes Filial- und Automatennetz österreichweit] #card(blue)[Zustellung am nächsten Werktag]],
+  [#card(blue)[Privatpersonen, die Pakete an Familie oder Behörden senden]],
+  [#card(blue)[Konkurrenz-Paketdienste mit eigenen Shops] #card(blue)[Privatverkauf über Kleinanzeigen mit Selbstzustellung]],
+  [#card(blue)[Anteil Online-Frankierung; Zustellquote nächster Werktag] #card(blue)[Kundenaufwand in Minuten]],
+  [#card(blue)[Filiale, Post-Partner, Paketautomaten, Online-Portale]],
+  [#card(blue)[Wochenend-Sender:innen ohne Zugang zur Filiale]],
+  [#two-cols([#card(blue)[Filialnetzbetrieb]], [#card(blue)[IT für Online-Frankierung]]) #card(blue)[Zustelllogistik]],
+  [#card(blue)[Paket- und Briefentgelte von Privatkund:innen]],
+  3,
+)
+#pagebreak()
+
+// 4 — Lean Canvas: E-Commerce transport / Spitzenzeiten
 #lean-layout(
   [E-Commerce · Transport: Spitzenzeiten],
   [#card(darkcard)[Fehlende Kapazitätsreserven] #card(darkcard)[Rufschädigung von Händlerinnen]],
@@ -213,14 +231,14 @@
   [#card(darkcard)[Umsatzkonzentrierte Saison-Händler]],
   [#two-cols([#card(blue)[Saisonales Zusatzpersonal]], [#card(blue)[Ausgeweitetes Monitoring]]) #card(blue)[Überstunden/ Schichtausweitung]],
   [#two-cols([#card(blue)[Peak-Saison (Mengenwachstum)]], [#card(blue)[Premium-/Express-Zuschläge]])],
-  3,
+  4,
 )
 #pagebreak()
 
-// 4 — Lean Canvas: E-Commerce Empfang / Retouren
+// 5 — Lean Canvas: E-Commerce Empfang / Retouren
 #lean-layout(
   [E-Commerce · Empfang: Retouren],
-  [#card(blue)[Händler haben hohe operative Kosten und Komplexität durch Retouren.] #compact-card[Steigende Retourmengen und hoher Anspruch der Privatkund\*innen bei Retouren.]],
+  [#card(blue)[Retouren kosten Händler Zeit und Geld] #compact-card[Kund\*innen erwarten einfache Rücksendung]],
   [#card(blue)[Nationale & Internationale Retouren; sehr detailliertes Postnetz in Österreich] #card(blue)[Business Cockpit, Tracking und Labeling Center]],
   [#card(darkcard)[Die Post AG übernimmt nicht nur den Versand & die Zustellung, sondern übernimmt auch volle Verantwortung über Retouren.]],
   [#card(blue)[österreichweites Post-netzwerk] #card(blue)[Vertrauen von österreichischen Kund\*innen]],
@@ -229,32 +247,32 @@
   [#card(blue)[Retourenquote (54% in 2026)] #card(blue)[Kosten pro Retoure]],
   [#compact-card[E-commerce-Plattform & Paket-Vertriebsmitarbeiter:innen] #compact-card[Bestehendes österreichweites Post-netzwerk]],
   [#card(blue)[Kund\*innen mit besonders hoher Retourenrate]],
-  [#compact-card[Fahrzeuge und Energie; IT & Tracking-Systeme; Paketstationen / SB-Zonen; Lager- und Fulfillment-Infrastruktur; Retourenlogistik; internationale Logistik] #card(blue)[Zusteller:innen und Personal]],
-  [#card(blue)[Paketversand & Retouren] #card(blue)[Retourenmanagement und Logistik]],
-  4,
+  [#compact-card[Fahrzeuge, IT, Lager- und Fulfillment-Infrastruktur, Retourenlogistik] #card(blue)[Zustellpersonal]],
+  [#card(blue)[Paketversand & Retouren] #card(blue)[Retourenmanagement]],
+  5,
 )
 #pagebreak()
 
 
-// 5 — Lean Canvas: E-Commerce Versand / Fulfillment
+// 6 — Lean Canvas: E-Commerce Versand / Fulfillment
 #lean-layout(
   [E-Commerce · Versand: Fulfillment],
   [#card(blue)[kein skalierbares Lager für Wachstum] #compact-card[Wettbewerbsdruck durch Lieferstandards, die kleine Händler sonst nicht halten können]],
   [#card(blue)[einfache Anbindung (shopify etc)] #card(blue)[Fullfillment Komplettlösung]],
   [#card(darkcard)[Sicherer Standard bei schwankender Bestellmengen (saisonale Peaks)]],
-  [#card(blue)[Post-Zustellinfrastruktur] #compact-card[EuShipments.com zB, die von der Post Ag übernommen wurde und 70% des Markts einnimmt]],
-  [#card(blue)[online Händler] #compact-card[kleine/mittelständige Shops ohne eigenes Lager / Startups im ecommerce]],
+  [#card(blue)[Post-Zustellinfrastruktur] #compact-card[EuShipments.com: Marktführer (70%), von der Post übernommen]],
+  [#card(blue)[Online-Händler] #compact-card[Shops ohne eigenes Lager / Startups im ecommerce]],
   [#card(blue)[eigenes Lager] #card(blue)[andere Fullfillmentanbieter / amazon fba]],
   [#card(blue)[Versandstandards, Versandkosten] #card(blue)[Same Day-Quoten]],
   [#card(blue)[Plugin Integration (Shopify etc)] #card(darkcard)[“ecommerce plus” als Angebot der Post ag]],
   [#card(blue)[Nischenhändler mit saisonalen Stoßzeiten (zB Weihnachtsgeschäft)] #card(blue)[neue Shops in der Wachstumsphase]],
-  [#compact-card[Fahrzeuge und Energie; IT & Tracking-Systeme; Paketstationen / SB-Zonen; Lager- und Fulfillment-Infrastruktur; Retourenlogistik; internationale Logistik] #card(blue)[Zusteller:innen und Personal]],
-  [#card(blue)[fullfillment Gebühren, Versandgebühren] #card(blue)[Zusatzleistungen wie branding, express etc]],
-  5,
+  [#compact-card[Fahrzeuge, IT, Lager- und Fulfillment-Infrastruktur, Retourenlogistik] #card(blue)[Zustellpersonal]],
+  [#card(blue)[Fulfillment- und Versandgebühren] #card(blue)[Zusatzleistungen wie branding, express]],
+  6,
 )
 #pagebreak()
 
-// 6 — Lean Canvas: Privat Empfang / Flexible Übergabe
+// 7 — Lean Canvas: Privat Empfang / Flexible Übergabe
 #lean-layout(
   [Privat · Empfang: Flexible Übergabe],
   [#compact-card[Empfänger sind zum Zustellzeitpunkt häufig nicht zuhause - eine persönliche Paketübergabe ist nicht möglich.] #compact-card[Fehlgeschlagene Übergaben verursachen zusätzliche Wege, Wartezeit und Aufwand für Empfänger:innen und Post.]],
@@ -263,16 +281,16 @@
   [#compact-card[Bereits vorhandenes flächendeckendes Zustell- und Abholnetz in ganz Österreich.] #compact-card[Was haben wir, das andere nicht replizieren oder erwerben können?]],
   [#card(blue)[Private Paketempfänger, Online-Shopper] #card(blue)[Onlinehändler]],
   [#compact-card[DPD, GLS, Amazon Logistics sowie weitere Paketdienste mit Paketshops/-stationen.] #compact-card[NachbarInnen, Abstellgenehmigung/Wunsch-Platz, Poststation, Postfiliale/Postpartner, Empfangsbox oder Paketumleitung.]],
-  [#dense-card[1.596 Poststationen mit 188.349 Fächern und 84.546 Empfangsboxen, \<35 Mio. Sendungen abgewickelt] #dense-card[Anteil erfolgreicher Zustellungen ohne zusätzlichen Zustellversuch, Nutzung alternativer Empfangsoptionen, Kundenzufriedenheit]],
+  [#dense-card[1.596 Poststationen, 188.349 Fächer, 84.546 Empfangsboxen] #dense-card[Erfolgreiche Zustellquote, Nutzung alternativer Optionen, Zufriedenheit]],
   [#card(darkcard)[Post App, Website, Tracking & digitale Benachrichtigungen]],
-  [#card(blue)[Privathaushalte, Berufstätige, urbane Haushalte] #compact-card[EmpfängerInnen: weniger Abholwege und höhere Flexibilität. Onlinehändler: besseres Zustellerlebnis. Post: effizientere letzte Meile]],
+  [#card(blue)[Privathaushalte, Berufstätige, urbane Haushalte] #compact-card[Alle profitieren: weniger Wege, besseres Erlebnis, effizientere letzte Meile]],
   [#card(blue)[Sortier- und Logistikinfrastruktur, Paketstationen, Empfangsboxen, Filialnetz, Fahrzeuge] #card(blue)[Zustellpersonal, Energie, zusätzliche Zustellvorgänge, Lagerung Pakete, Betrieb der Box-Infrastruktur]],
-  [#card(blue)[Paketentgelte der Onlinehändler, Paketversand durch Privatkunden]],
-  6,
+  [#card(blue)[Paketentgelte der Händler, Paketversand von Privatkund:innen]],
+  7,
 )
 #pagebreak()
 
-// 7 — Lean Canvas: Privat Transport / Sendungsverfolgung
+// 8 — Lean Canvas: Privat Transport / Sendungsverfolgung
 #lean-layout(
   [Privat · Transport: Sendungsverfolgung],
   [#card(blue)[Unklare Informationen zum aktuellen Standort des Pakets.]],
@@ -286,11 +304,11 @@
   [#card(blue)[Personen, die häufig online bestellen und mehrere Pakete erwarten]],
   [#card(blue)[IT-Infrastruktur und Datenverarbeitung.] #card(blue)[Weiterentwicklung der Tracking-Systeme und Post App]],
   [#card(blue)[Höhere Nutzung der Paketdienstleistungen] #card(blue)[Premium-/Express-Zusatzleistungen]],
-  7,
+  8,
 )
 #pagebreak()
 
-// 8 — Prozess
+// 9 — Prozess
 #bg()
 #place(top + left, dx: 0cm, dy: 0cm, rect(width: 6.25cm, height: 9cm, fill: navy))
 #place(top + left, dx: 0.55cm, dy: 0.62cm, text(size: 4.8pt, weight: "bold", fill: gold)[VORGEHEN])
@@ -306,10 +324,10 @@
   #v(0.24cm)
   #text(size: 6.5pt, fill: ink)[Geschäftsbericht und Unternehmensreport der Post AG #v(0.22cm) Presseaussendungen von Post, ORF und APA #v(0.22cm) Eigene Erfahrungen mit Zustellern #v(0.22cm) KI-gestützte Websuche]
 ])
-#slide-no(8)
+#slide-no(9)
 #pagebreak()
 
-// 9 — Recherche
+// 10 — Recherche
 #bg()
 #place(top + left, dx: 0.70cm, dy: 0.62cm, text(size: 4.8pt, weight: "bold", fill: darkcard)[REFLEXION])
 #place(top + left, dx: 0.70cm, dy: 1.05cm, text(size: 17pt, weight: "bold", fill: ink)[RECHERCHE])
@@ -326,7 +344,7 @@
 - Werbe- und Marketingtexte mit wenig verwertbaren Fakten #v(0.16cm)
 - KI-Antworten ohne nachvollziehbare Quellenangabe
 ])])
-#slide-no(9)
+#slide-no(10)
 #pagebreak()
 
 // 10 — Closing
