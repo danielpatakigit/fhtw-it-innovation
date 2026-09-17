@@ -140,7 +140,7 @@
 #place(top + left, dx: 0.70cm, dy: 1.93cm, text(size: 7pt, fill: muted)[Jeder Lean Canvas vertieft eine konkrete Aufgabe entlang der Post-AG-Service-Journey.])
 #place(top + left, dx: 1.30cm, dy: 2.40cm, text(size: 4.8pt, weight: "bold", fill: muted)[KUNDENGRUPPE ↓])
 #place(top + left, dx: 4.05cm, dy: 2.40cm, text(size: 4.8pt, weight: "bold", fill: muted)[SERVICE JOURNEY →])
-#place(top + left, dx: 1.30cm, dy: 2.75cm, grid(
+#place(top + left, dx: 1.30cm, dy: 2.75cm, table(
   columns: (2.45cm, 3.75cm, 3.75cm, 3.75cm),
   rows: (0.60cm, 1.50cm, 1.50cm),
   gutter: 0.08cm,
@@ -152,17 +152,44 @@
   ).at(y * 4 + x),
 )[
   #text(size: 5.2pt, weight: "bold", fill: white)[KUNDENGRUPPE]
+][
   #text(size: 5.2pt, weight: "bold", fill: white)[VERSAND / EINLIEFERUNG]
+][
   #text(size: 5.2pt, weight: "bold", fill: white)[TRANSPORT / INFORMATION]
+][
   #text(size: 5.2pt, weight: "bold", fill: white)[EMPFANG]
-  #text(size: 5.6pt, weight: "bold", fill: ink)[E-COMMERCE #h(0.15cm) Händler, Plattformen]
-  #text(size: 5.3pt, weight: "bold", fill: solution-accent)[Fulfillment] #linebreak() #text(size: 4.5pt, fill: ink)[Ware an die Post AG anbinden und skalieren]
-  #text(size: 5.3pt, weight: "bold", fill: value-accent)[Spitzenzeiten] #linebreak() #text(size: 4.5pt, fill: ink)[Kapazität und Zustellstandard bei Peaks sichern]
-  #text(size: 5.3pt, weight: "bold", fill: problem-accent)[Retouren] #linebreak() #text(size: 4.5pt, fill: ink)[Rücksendungen zuverlässig abwickeln]
-  #text(size: 5.6pt, weight: "bold", fill: ink)[PRIVATPERSONEN #h(0.15cm) Sender:innen und Empfänger:innen]
-  #text(size: 5.3pt, weight: "bold", fill: problem-accent)[FEHLT] #linebreak() #text(size: 4.5pt, fill: ink)[Paket oder Brief einfach aufgeben]
-  #text(size: 5.3pt, weight: "bold", fill: solution-accent)[Sendungsverfolgung] #linebreak() #text(size: 4.5pt, fill: ink)[Status und Standort transparent machen]
-  #text(size: 5.3pt, weight: "bold", fill: customer-accent)[Flexible Übergabe] #linebreak() #text(size: 4.5pt, fill: ink)[Pakete passend zum Alltag empfangen]
+][
+  #text(size: 5.6pt, weight: "bold", fill: ink)[E-COMMERCE]
+  #v(0.06cm)
+  #text(size: 4.5pt, fill: muted)[Händler, Plattformen]
+][
+  #text(size: 5.3pt, weight: "bold", fill: solution-accent)[Fulfillment]
+  #v(0.06cm)
+  #text(size: 4.5pt, fill: ink)[Ware an die Post AG anbinden und skalieren]
+][
+  #text(size: 5.3pt, weight: "bold", fill: value-accent)[Spitzenzeiten]
+  #v(0.06cm)
+  #text(size: 4.5pt, fill: ink)[Kapazität und Zustellstandard bei Peaks sichern]
+][
+  #text(size: 5.3pt, weight: "bold", fill: problem-accent)[Retouren]
+  #v(0.06cm)
+  #text(size: 4.5pt, fill: ink)[Rücksendungen zuverlässig abwickeln]
+][
+  #text(size: 5.6pt, weight: "bold", fill: ink)[PRIVATPERSONEN]
+  #v(0.06cm)
+  #text(size: 4.5pt, fill: muted)[Sender:innen und Empfänger:innen]
+][
+  #text(size: 5.3pt, weight: "bold", fill: problem-accent)[FEHLT]
+  #v(0.06cm)
+  #text(size: 4.5pt, fill: ink)[Paket oder Brief einfach aufgeben]
+][
+  #text(size: 5.3pt, weight: "bold", fill: solution-accent)[Sendungsverfolgung]
+  #v(0.06cm)
+  #text(size: 4.5pt, fill: ink)[Status und Standort transparent machen]
+][
+  #text(size: 5.3pt, weight: "bold", fill: customer-accent)[Flexible Übergabe]
+  #v(0.06cm)
+  #text(size: 4.5pt, fill: ink)[Pakete passend zum Alltag empfangen]
 ])
 #place(top + left, dx: 1.30cm, dy: 7.12cm, block(width: 13.95cm, height: 0.70cm, fill: pale, stroke: 0.4pt + gridline, inset: (x: 8pt, y: 4pt))[
   #text(size: 5.2pt, weight: "bold", fill: problem-accent)[FEHLENDER SECHSTER CANVAS]
