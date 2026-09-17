@@ -1,3 +1,4 @@
-# Build artifacts (rendered PDF / page previews)
+# Local outputs and agent-only handoff material
 build/
+.ai/
 .DS_Store
