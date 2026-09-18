@@ -113,3 +113,17 @@ _Haupt-Stakeholder:_ Online-Händler.
 - 3D-Drucker, die alles zuhause drucken können — Produkte müssen nicht mehr verschickt werden, sondern werden direkt zuhause produziert
 
 *Output:* mindestens 10 disruptive Ideen — *ausstehend*.
+
+== 6 AI: Make it more disruptive!
+
+*Anmerkung:* Task 6 steht nicht im Arbeitsblatt (`DisruptPOSTAG_LV2.docx`), sondern in den VO2-Folien — daher komplett offen.
+
+*Vorgehen — AI als Ideen-Verstärker:*
+
+- Gebt der AI euer finales Problem Statement und eure 10 Ideen.
+- Lasst die AI Ideen kombinieren, radikalisieren oder aus einer anderen Branche neu denken.
+- Prüft kritisch: Ist die neue Idee wirklich besser und disruptiver?
+- Wählt gemeinsam eure 3 stärksten Ideen.
+- Dokumentiert: Was kam von euch? Was hat AI verändert?
+
+*Output:* 3 weiterentwickelte Disruptionsideen — *ausstehend*.
