@@ -1,0 +1,967 @@
+IT Innovations- und Technologiemanagement
+
+Theorie und Praxisbeispiele
+kombiniert mit Fallstudien 
+
+Dr. Stefan Bauer 
+
+Agenda
+Innovationsmanagement
+Innovator’s Dilemma	
+Design Thinking - Personas
+Assignment #2 (From 20.00)
+
+
+2
+2
+
+Opening Revision I 1
+Bitte besprich 5 Minuten mit einer Person, mit der du noch nicht gesprochen hast, folgende Fragen:
+
+Was ist Unterschied zwischen inkrementeller Innovation und radikaler Innovation? Bitte nenne je ein Beispiel!
+Was verstehen wir unter disruptiver Innovation? Bitte nenne ein Beispiel!
+
+Bitte notiere Bulletpoints auf Papier deine Antworten!
+
+3
+3
+
+Opening Revision I 2
+
+4
+2 Gruppen I GoStudent I Post AG
+am höchsten priorisierte Problem
+GoStudent I Post AG
+4
+
+Organisatorische Fragen
+-> Slides der 1. Einheit ansehen
+
+5
+5
+
+Innovationsmanagement in der Organisation
+
+6
+6
+
+Innovationsmanagement
+Strategisches und Operatives Innovationsmanagement
+Innovationsmanagement übernimmt alle strategischen und operativen Aufgaben zur Planung, Organisation und Kontrolle von Innovationsprozessen und zur Schaffung von dazu erforderlichen Rahmenbedingungen in Unternehmen.
+Strategisches Innovationsmanagement dient der grundsätzlichen und langfristigen Sicherung der Erfolgspotentiale (z.B. Definition Innovationsstrategie)
+Operatives Innovationsmanagement bezieht sich auf die mittel-/kurzfristige Gestaltung und Steuerung der geplanten und laufenden Innovationsaktivitäten sowie Durchführung des Innovationsprozesses
+
+Strategisch: Innovationsstrategie, Definition Innovationsprozess 
+Operativ: Durchführung, Projekte
+
+Aufgaben des Innovationsmanagements
+Festlegung von Innovationszielen und -strategien,
+Planung, Steuerung und Kontrolle von Innovationsprozessen,
+Zukunfts- und Trendforschung, Beobachtung von schwachen Signalen, Definition von Suchfeldern für Innovationen,
+Gewinnung von Ideen (intern und extern),
+Optimale organisatorische Eingliederung der Innovationsarbeit,
+Schaffung einer innovationsfördernden Unternehmenskultur, Beseitigung von Innovationsbarrieren,
+kontinuierliche Arbeit an der Innovationsfähigkeit des Unternehmens
+
+9
+9
+
+Innovation Framework
+Innovationsstrategie als strategische Brücke zwischen der heutigen Position des Unternehmens (Ist-Position) und der angestrebten Position in der Zukunft (Soll-Position)
+Ziele vor die Mittel stellen
+müssen festlegen, wie große Anstrengungen denn erforderlich sind, um die strategische Lücke zu schließen
+10
+Nun wissen wir also, wie es derzeit um uns steht (Feld 1), wo wir hinwollen, bzw. -sollten (Feld 2), warum wir innovieren müssen (Feld 3), wieviel an Innovation denn erforderlich ist (Feld 4) und in Feld 5, was für uns die wichtigsten Innovationsinhalte sind. Wir sind damit aber noch nicht fertig mit unserer Innovationsstrategie
+10
+
+Innovation Framework
+
+1. Gegenwärtigen Status festhalten, den Ausgangspunkt.
+2. Fragen zur Zukunft: Wie denn unsere zukünftige Umgebung aussieht und welches denn unsere Ambition für diese Zukunft überhaupt ist
+3. Daraus lässt sich die strategische Lücke identifizieren, zu deren Schließen wir Innovationen benötigen, das Warum.
+4. Aus dieser Lücke ergibt sich anschließend der Innovationsbedarf, das Wieviel, 
+5. sowie die inhaltlichen Innovationsfelder, die Suchfelder, das Was.
+6. All das muss schlussendlich von einem leistungsfähigen Innovationssystem umgesetzt werden, das Wie.
+11
+11
+
+Feld 5: Fokus – Die Suchfelder, 
+das Was
+Suchfelder aufgrund von Leitfragen
+können was anderes finden als das wonach wir gesucht haben
+oft haben diese Lösungen großen Wert für das Unternehmen
+Kann Einfluss auf andere Felder haben
+12
+12
+
+Feld 6: System – 
+Das Innovationssystem, das Wie
+
+Die Innovationsstrategie muss aufzeigen, welche Voraussetzungen zu schaffen sind, um überhaupt erfolgreich innovieren zu können
+1. Innovationsprozess (Ablauforganisation) 
+2. Die zugehörige Innovationsorganisation (Aufbauorganisation) 
+3. Die erforderlichen personellen Ressourcen und Fähigkeiten 
+4. Die erforderlichen finanziellen Ressourcen 
+5. Und geeignete Spielregeln
+13
+13
+
+Feld 6: System – 
+Das Innovationssystem, das Wie
+
+14
+https://dpp-austria.at/ 
+LinkedIn https://www.linkedin.com/in/stefan-bauer-innovator/
+14
+
+Innovationsstrategie für KMU
+Bestimmen eines Innovations-Verantwortlichen, welcher direkt dem CEO rapportiert. 
+Separates, fixiertes Budget für die Innovations-Anstrengungen (Strategic Buckets, wie für größere Unternehmen auch). 
+Keine separate Innovationsabteilung, höchstens ein paar Stabsmitarbeiter. 
+Erarbeiten einer Strategy for Change auch für KMU 
+Organisieren aller Innovationsaktivitäten in Innovationsworkshops 
+15
+15
+
+Wirkung der Innovationsstrategie messen
+Was kommt Euch dabei in den Sinn?
+# neue Produkte pro Jahre
+Kundenfeedback
+Patente
+Quote von gestarteten Projekten und in den Markt gebrachten Innovationen 
+Externe Ratings
+Ratio Umsatz / Innovationskosten
+Return on Investment (Innovation)
+Auswirkungen auf Marktanteil (Konkurrenz)
+
+
+16
+16
+
+Was benötigt ein Team generell um 
+innovativ zu sein?
+
+Ideen
+Verschiedene Charaktere
+Offenheit
+Zeit
+Motivation
+Geld
+Domain-Wissen
+Ziel
+Zugang Tech
+Problem
+Mut
+Korrenenz
+
+
+
+17
+Fehlerkultur
+divers sein - Hintergründe
+Risikobereitschaft
+Umgebung muss dafür geschaffen sein
+Problemstellung - Ziel
+Budget
+Kreativität 
+Erlaubnis von oben / Committment
+Problem an welchem man arbeitet
+Ideen / Kreativitätstechniken zum Probleme zu lösen
+Ziele 
+Freiraum und Spielraum um etwas auszuprobieren
+Recherchen (Zeit dafür)
+Budget (Recherche und Umsetzung)
+Steuerung in “Bahnen”: Fristen & Deadlines / Regeln
+Fehlerkultur im Unternehmen
+Diversität - angepasst an das was man macht
+Out of the box
+Open minded
+Fehlerkultur
+Neugier
+Kreativität
+Motivation - intrinsisch
+Kapital
+Problemlösungskompetenz
+Durchhaltevermögen
+Geduld
+17
+
+What counts is making the most of an idea– together. 
+
+Technological change has become so rapid and today’s tech scene is so diverse and specialized that it would be neglectful not to join forces to bring the greatest possible value to a customer. 
+
+Rudi Held, Global Head of SAP’s Co-Innovation Platforms
+
+Team Innovation
+18
+18
+
+Je besser die interne Kommunikation eines Teams, desto innovativer sind ihre Tätigkeiten und Ideen (Hühlsheger et al., 2009)
+
+Kommunikation muss sich nicht auf den Austausch von nutzbarem Wissen beziehen (Jin & Sun, 2010)
+die Qualität des Austauschs wird stark durch die intrinsische Motivation des Austauschs beeinflusst 
+einen positiven Zusammenhang zwischen der internen Kommunikation des Teams und dem Gefühl von Sicherheit der Berufsposition, dem Grad der Abhängigkeit zwischen den Aufgaben, sozialen Netzwerken, extrinsischen Motivation, Austausch zwischen MitarbeiterInnen und Führungskraft und dem Führungsstil
+Basis der Innovation ist…die Kommunikation
+19
+
+In mehreren Studien wurde bewiesen, dass die Team Innovation von einer ausgeprägten Teamdiversität profitiert (Bell et al., 2011; Hühlsheger et al., 2009; van Djik et al., 2012)
+
+Die Dimension der Diversität bezieht sich dabei weniger auf demographische Merkmale, sondern überwiegend auf den Bildungshintergrund, Berufserfahrung oder andere Attribute aus dem beruflichen Kontext (Hühlsheger et al. 2009). 
+
+Das heißt je mehr Mitglieder verschiedene Perspektiven, Wissen, Informationen und Expertise einbringen, desto mehr Ressourcen stehen zur Verfügung und desto höher die Wahrscheinlichkeit von Synergien für Weiterentwicklungen.
+Basis der Innovation ist…
+die Teamzusammensetzung
+20
+
+21
+https://www.derstandard.at/story/3000000247696/innovationsforscher-eine-fehlentscheidung-ist-besser-als-keine-entscheidung
+21
+
+Learnings Gassmann 
+Mut zur Entscheidung: Unternehmen sollten beherzt Entscheidungen treffen, auch wenn nicht alle Informationen vorliegen. Warten auf „perfekte“ Bedingungen führt oft zu Verzögerungen und Lähmung
+Fehlentscheidungen als Lernchance: Fehler sollten nicht als Misserfolg gesehen werden, sondern als Chance zur Korrektur. Entscheidend ist, dass erkannt wird, was nicht funktioniert, und dann bestmöglich reagiert wird
+Pivoting als Managementprinzip: Entscheidungen sollten flexibel sein: Bei neuen Erkenntnissen sollte man in der Lage sein, die Richtung zu ändern („pivotieren“).
+
+Ignorierte Unsicherheit ist riskant: Innovationsprojekte operieren oft unter hoher Unsicherheit. Die Angst, etwas falsch zu machen, kann dazu führen, dass man gar nichts unternimmt. Das ist laut Gassmann gefährlicher als eine falsche Entscheidung
+
+22
+https://www.derstandard.at/story/3000000247696/innovationsforscher-eine-fehlentscheidung-ist-besser-als-keine-entscheidung
+22
+
+23
+
+Innovator’s Dilemma 
+Rahmenbedingungen und Konsequenzen
+24
+24
+
+Innovator’s Dilemma 
+Rahmenbedingungen und Konsequenzen 
+Etablierte Unternehmen setzen auf profitable (oft etablierte) Produkte 
+
+F&E beschäftigt sich mit disruptiven Technologien 
+finden keinen Anklang bei langjährigen, etablierten Kunden
+werden daher von Unternehmen oft nicht mehr weiterverfolgt
+
+Neue Player finden Märkte für disruptive Technologien durch Trial-and-Error
+Etablierte Unternehmen sind im Nachteil durch höhere Kostenstruktur und zu späte Reaktion auf den Markt
+
+e.g. Blockchain T. 
+25
+
+Innovator’s Dilemma 
+Rahmenbedingungen und Konsequenzen 
+Etablierte Partnernetzwerke für disruptive Technologien ungeeignet 
+Partner/Lieferanten müssen ausgetauscht werden (oft schwierig)
+
+Führungsziele großer Unternehmen (ROI) stehen oft im Gegensatz zu disruptiven Technologien
+zu sehr auf Profit & Loss und Wachstum ausgerichtet 
+
+Märkte im Zusammenhang mit disruptiven Technologien sind oft unbekannt, unberechenbar und unsichtbar
+müssen gemeinsam mit Kunden erforscht werden
+
+26
+
+Innovator’s Dilemma 
+Grundprinzipien
+Grundprinzip #1: Wachstumsziele großer Unternehmen werden durch kleine Märkte nicht adressiert 
+Viele große Unternehmen warten bis sich kleine Märkte soweit entwickeln, bis sie groß genug sind, um „interessant“ zu sein
+
+Grundprinzip #2: Märkte, die nicht existieren, können nicht analysiert werden
+Disruptive Innovationen sind oft auf gänzlich unbekannten Märkten zu finden, die damit auch viele First-Mover Vorteile bieten (riskant!)
+27
+
+Innovator’s Dilemma - Grundprinzipien
+Grundprinzip #3: Die Mehrzahl der Kunden wollen etablierte Produkte und Investoren wollen Umsätze (bzw. ROI)
+
+Von Kunden nicht erwünschte Entwicklungen (bzw. nicht nachgefragte Produkte/Services) werden nicht adressiert
+Neue Prozesse, die sich mit disruptiven Technologien auseinandersetzen, sind schwer einzuführen 
+Oft können disruptive Technologien nur in Parallel-Organisationen behandelt werden
+28
+
+Innovator‘s Dilemma 
+Darstellung
+Einnahme-/Leistungsmaß
+Zeit
+Neue Geschäfts-/ Technologiekurve
+Bestehende Geschäfts-/ Technologiekurve
+Nachhaltige Innovation
+Aufrechterhaltung der Marktführerschaft durch Verbesserung, Vergrößerung, Wiederholung
+Disruptive Innovation
+Pionierarbeit durch Erforschen, Erfinden, Erschließen von Nischenkunden
+29
+
+Innovator’s Dilemma 
+Fehler und Denkweisen der erfolglosen Unternehmen
+
+Der unmittelbare Wert/Nutzen disruptiver Technologien wird nicht gesehen, und Fehler werden nicht toleriert
+Die Werte und das Wissen, das in den Prozessen steckt hindert den Einzug von disruptiven Technologien anstatt ihn zu fördern
+Das Unternehmen verfolgt ausschließlich Wachstumsziele: Kunden steuern die Ressourcenzuteilung in etablierten Unternehmen
+
+
+30
+
+Innovator’s Dilemma 
+Prinzipien erfolgreicher Firmen
+Entwickeln neue Märkte, anstatt bestehende aufzumischen
+
+Abwicklung wird in Parallel-Organisationen ausgelagert, die
+klein genug sind, um kleine „Möglichkeiten“ zu schätzen
+Werte- und Kostenstrukturen haben und besser für den Markt geeignet sind
+Märkte werden nach Trial-and-Error und Fail Early Prinzipien gefunden
+Nachfrage der Kunden nach disruptiven Technologien begründet Ressourceneinsatz in Projekten 
+31
+
+Beispiel: Ziele Innovationsmanagement bei ERGO / MunichRe
+Improving existing business models
+Disrupting existing business models
+Pure digital player
+Establishing new business models
+Automotive
+Smart Home
+Prozesse,
+Systeme
+Produkte
+32
+
+Beispiel: Standorte des Innovations-
+managements bei ERGO / MunichRe
+Strukturen von Observe (Innoscounts), Explore (Labs, Inkubator), Deploy (Digital IT)
+Zusätzlich Plug&Play Accelerator (Branchenübergreifend) sowie Venture Capital Arm
+
+Das “Innovatoren-Dilemma“ in großen Unternehmen
+„Lead Customer“ bestimmen die Ressourcenallokation
+Nischenmärkte befriedigen große Unternehmen nicht 
+Disruptionsmöglichkeiten können nicht analysiert werden 
+Existierende Prozesse und Werte sind limitierende Faktoren  
+Technologie deckt selten den Marktbedarf  
+
+LARGECORPORATION
+34
+
+Deshalb ist nexible gut für Innovation positioniert
+LARGECORPORATION
+A SPIN OFFORGANISATION
+DISRUPTIVEINNOVATION
+Wir zielen auf einen Nischenmarkt  
+Wir schätzen unsere Marktopportunität  
+Wir bauen, messen & lernen, um den “sweet spot“ zu finden  
+Wir schaffen neue Prozesse und Werte 
+Wir sorgen dafür, dass Kunden lieben was wir tun  
+35
+
+Innovator’s Dilemma 
+Change Optionen
+Kauf eines Unternehmens, dessen Prozesse und Werte besser zur neuen Aufgabe passen
+
+Änderung der Prozesse und Werte im Unternehmen 
+
+Aufbau einer Parallelorganisation innerhalb des Unternehmens, die eine eigene Wertekultur und Prozesslandschaft besitzt, die besser geeignet ist, die neue Aufgabe zu bewältigen
+36
+
+Innovator’s Dilemma: 
+Success Story J&J
+Johnson & Johnson
+
+Besteht aus 160 Firmen
+
+Große Firmen: McNeil und Janssen
+
+Kleine Firmen ab 20 Mio Jahresumsatz
+
+Kleine Firmen beschäftigen sich mit disruptiven Technologien
+37
+
+Diskussion Innovator’s Dilemma
+Bezieht das Innovator’s Dilemma auf Eure Arbeitgeber. Befinden Eure Arbeitgeber sich im Dilemma? 
+
+?
+
+
+38
+Digitalisierung von Dokumente - Behörden - “ich will den alten Prozess”
+Krypto RB Beispiel
+Verlage - Überlegen ChatGPT
+Abo Modell für Lenkradheizung
+OnPremise -> Cloud
+Künstlerische Tätigkeit: Persönliche Ressourcen (Dilemma existenzgefährdend)
+Autonomes Fahren -> Scheinwerfer werden weniger relevant (Individualisierungsmöglichkeiten) -> zu viele Personen Mitspracherecht (hierarchisch) (Corporate Ventures)
+Fokus auf operatives Business zB bei Catering Unternehmen 
+Kritik dass Prozesse für neue Innovationen lange dauern -> Time to market bei kleinen Unternehmen kürzer
+Kultur: Betriebsblindheit (warum soll man’s ändern?)
+Annahme: Monopolisierung durch lernende Algorithmen (Nischen)  
+Beobachtung: Automarkt durch Tech-Industry disruptiert (?) 
+38
+
+Innovations Ökosystem
+
+Ein Netzwerk von Organisationen, Menschen und Technologien, die zusammenarbeiten, um Innovationen zu fördern und zu verbreiten.
+Quelle: Adner, R. (2006). Match Your Innovation Strategy to Your Innovation Ecosystem. Harvard Business Review.*
+39
+39
+
+Geschäftsmodellinnovation
+Geschäftsmodellinnovation ist eine bewusste Veränderung eines bestehenden oder Schaffung eines neuen Geschäftsmodells, das Kundenbedürfnisse auf eine neuartige und bessere Art und Weise befriedigt.
+
+wirtschaftliche Umsetzung einer neuen Geschäftsidee
+grundlegende Struktur eines Geschäfts neu gedacht
+Wettbewerbsvorteil durch Differenzierung gegenüber Konkurrenten
+
+Wozu brauchen Organisationen Geschäftsmodelle?
+
+
+
+
+Beispiel: die älteste Glühbirne der Welt (brennt seit über 100 Jahren)
+Wo würde Osram stehen, wenn Glühbirnen keine limitierte Lebensdauer hätten?
+
+
+
+
+
+
+41
+Osram wäre pleite, hätte keinen regelmäßigen Umsatz
+Markt wäre gesättigt
+Geschäftsmodellinnovation -> Nische finden
+Kartell: Glühlampen Firmen -> keine Entwicklung
+
+Geschäftsmodellinnovation
+Beispiele:
+Nestle Geschäftsmodell Nespresso - portionierten Kaffee in Kapseln und Kaffeemaschinen werden direkt vertrieben
+IKEA - Transport und Aufbau von Möbeln von Kunden selbst übernommen werden
+KREATIVE IMITATION!
+
+
+Value Proposition
+
+Das Versprechen eines Unternehmens, Kunden einen spezifischen Nutzen oder Mehrwert durch seine Produkte oder Dienstleistungen zu bieten.
+Quelle: Payne, A., Frow, P., & Eggert, A. (2017). The Customer Value Proposition: Evolution, Development, and Application in Marketing.*
+43
+43
+
+Muster erfolgreicher Geschäftsmodelle
+
+
+Klick hier -> https://businessmodelnavigator.com/explore
+
+44
+44
+
+Geschäftsmodellinnovation
+
+
+
+
+Blue Ocean Strategy
+
+Teil des strategischen Managements 
+Neue Märkte sollen mit nachhaltigen und rentablen Geschäftsmodellen entwickelt werden
+Hauptsächliche Ziel: Wettbewerb soll irrelevant werden durch Änderung des Wettbewerbsumfeldes
+Steht im Widerspruch zu Porter‘s Wettbewerbsstrategien (Kostenführer vs. Qualitätsführer)
+z.B. Sonnentor (Nachhaltigkeit im Fokus)
+
+
+
+“The only way to beat the competition is to stop trying to beat the competition.”
+45
+
+Predictive Economy
+Wirtschaftssystem, das auf datengetriebener Vorhersage basiert
+Charakteristik:
+Stärkere Automatisierung von Entscheidungen
+Plattform- und Ökosystemlogiken
+Integration von Echtzeitdaten in Geschäftsprozesse
+Beispiele:
+Vorausschauende Wartung in der Industrie
+Personalisierte Konsumangebote
+Dynamische Preisgestaltung
+
+
+46
+46
+
+Business Model Innovation 
+in the digital age
+
+
+
+
+
+5 Jahre Forschung an der Universität St. Gallen über 250 erfolgreiche Geschäftsmodell-Innovationen der letzten Jahrzehnte ergeben:
+
+55 Business Model Patterns
+Business Model Innovation Map
+
+
+
+47
+
+55 Business Model Patterns
+
+klicke hier https://learningloop.io/playbook-collections/business-model-patterns/ 
+48
+48
+
+https://businessmodelnavigator.com/explore 
+Add-On
+Affiliation
+Aikido
+Auction
+Barter
+Cash Machine
+Cross Selling
+Crowdfunding
+Crowdsourcing
+Customer Loyalty
+Digitalization
+Direct Selling
+E-Commerce
+Experience Selling
+Flatrate
+Fractionalized Ownership
+Franchising
+Freemium
+From Push-to-Pull
+Guaranteed Availability
+Hidden Revenue
+Ingredient Branding
+Integrator
+Layer Player
+Leverage Customer Data
+License
+Lock-In
+Long Tail
+Make more of it
+Mass Customization
+No Frills
+Open Business Model
+Open Source
+Orchestrator
+Pay per Use
+Pay what you want
+Peer-to-Peer
+Performance-based Contracting
+Razor and Blade
+Rent instead of Buy
+Revenue Sharing
+Reverse Engineering
+Reverse Innovation
+Robin Hood
+Self-Service
+Shop-in-Shop
+Solution Provider
+Subscription
+Supermarket
+Target the Poor
+Trash-to-Cash
+Two-sided-Market
+Ultimate Luxury
+User designed
+White Label
+49
+55 Business Model Patterns
+
+49
+
+Übung Wähle drei Muster…
+… die du noch nicht kennst aus!
+
+Lies sie dir durch und beantworte zu jedem Muster folgende Frage:
+
+Kennst du noch ein Unternehmen, welches dieses Muster nutzt?
+Für welche Branchen ist das Muster sinnvoll?
+Schätzt du das Muster als “innovativ” ein?
+
+5 min. - 19.17
+
+50
+50
+
+Geschäftsmodellmuster – Pay per Use
+
+Die Benützung des Produktes bzw. der Dienstleistung wird:
+für die Benützungsdauer
+oder pro Zugriff
+gezählt  und entsprechend abgerechnet 
+
+Der Kunde bezahlt somit nur für seinen direkten Konsum
+
+Der hauptsächliche Wertbeitrag ist die Flexibilität, die dem Kunden geboten und verrechnet wird 
+51
+51
+
+Nächstes Semester 
+Mobile Business
+Lean Canvas 
+52
+Customer Journey
+52
+
+Konvergenz und Divergenz im Design Thinking Prozess
+53
+(Schallmo 2017)
+53
+
+Design Thinking
+Innovation, problem-solving technique
+Combination of intent, exploration and views of various stakeholders
+Rapid problem solving and innovation
+
+Methodology
+Double Diamond Design
+Frameworks
+Stanford d.school Framework 
+IDEO Framework 
+
+Introduction to Design Thinking
+Stackowiak, Robert, and Tracey Kelly. Design Thinking in Software and AI Projects: Proving Ideas Through Rapid Prototyping. Apress, 2020. 
+To start, design thinking is an innovation and problem-solving technique that combines the intent, exploration and views of various stakeholders to rapidly solve problems and innovate. There are various methodologies and frameworks that guide design thinking. To start, we consider the double diamond design methodology (Figure 1-3). This methodology is divided into two parts, “diamonds”: the problem space and the solution space. The problem space includes discovery and defining the problem. Once the problem is well defined, we move into the solution space whereby solutions are developed and delivered. The following presentation focuses on the solution space. There are two Design Thinking frameworks that are discussed in the book: the Stanford d.school Framework and the IDEO Framework. The Stanford d.school Framework (as pictured in Figure 1-1) includes the steps empathize, define, ideate, prototype, and test. The IDEO Framework (Figure 1-2) on the other hand includes discovery, interpretation, ideation, experimentation and evolution.
+
+54
+
+55
+55
+
+
+“Wer neue Antworten will, muss neue Fragen stellen.”
+Johann Wolfgang Goethe
+
+57
+57
+
+Design Thinking Prozess Deep Dive
+58
+(Schallmo 2017)
+58
+
+Regeln für den Design Thinking Prozess
+Visualisieren: Probleme, Ideen und Lösungsansätze sollen mittels Skizzen visualisiert werden.
+Nur einer spricht: es spricht jeweils nur ein Design Thinker, da alle Ideen angehört werden sollen.
+Ideen fördern: ungewöhnliche Ideen sollen gefördert werden, auch wenn diese zunächst unrealistisch erscheinen.
+Kritik zurückstellen: es gibt keine schlechten Ideen und es liegt genügend Zeit vor, Ideen weiter auszuführen.
+Experimentieren: während des gesamten Prozesses soll experimentiert werden, um weitere Ideen zu entwickeln und Schwachstellen zu identifizieren.
+
+59
+(Schallmo 2017)
+59
+
+Regeln für den Design Thinking Prozess
+Aktivität verfolgen: Aktivität in Form von Handlungen ist relevant.
+Quantität ist wichtig: um eine gute Ideen zu finden, müssen viele Ideen gewonnen werden.
+Fokussieren: alle Teammitglieder sollen beim Thema bleiben und das Hauptziel nicht aus den Augen verlieren.
+Auf Ideen aufbauen: abgeleitete Ideen sollen weiterentwickelt werden; besser „und“ als „aber“.
+Elektronische Geräte abstellen: alle Teammitglieder nehmen teil und konzentrieren sich auf den Prozess.
+60
+(Schallmo 2017)
+60
+
+Design Sprint
+Use Cases
+Launching a new product or a service.
+Extending an existing experience to a new platform.
+Existing MVP needing revised User experience design and/or UI Design.
+Adding new features and functionality to a digital product.
+Opportunities for improvement of a product 
+Opportunities for improvement of a service.
+Supporting organisations in their transformation towards new technologies (e.g., AI).
+61
+61
+
+Design Thinking
+Innovation, problem-solving technique
+Combination of intent, exploration and views of various stakeholders
+Rapid problem solving and innovation
+
+Methodology
+Double Diamond Design
+Frameworks
+Stanford d.school Framework 
+IDEO Framework 
+
+Introduction to Design Thinking
+Stackowiak, Robert, and Tracey Kelly. Design Thinking in Software and AI Projects: Proving Ideas Through Rapid Prototyping. Apress, 2020. 
+To start, design thinking is an innovation and problem-solving technique that combines the intent, exploration and views of various stakeholders to rapidly solve problems and innovate. There are various methodologies and frameworks that guide design thinking. To start, we consider the double diamond design methodology (Figure 1-3). This methodology is divided into two parts, “diamonds”: the problem space and the solution space. The problem space includes discovery and defining the problem. Once the problem is well defined, we move into the solution space whereby solutions are developed and delivered. The following presentation focuses on the solution space. There are two Design Thinking frameworks that are discussed in the book: the Stanford d.school Framework and the IDEO Framework. The Stanford d.school Framework (as pictured in Figure 1-1) includes the steps empathize, define, ideate, prototype, and test. The IDEO Framework (Figure 1-2) on the other hand includes discovery, interpretation, ideation, experimentation and evolution.
+
+62
+
+Eigenschaften eines 
+Design Thinkers
+Optimismus
+Kooperationsfähigkeit
+Empathie
+Experimentierfreude
+Integratives Denken
+63
+(Schallmo 2017)
+63
+
+Was, Wer, Wie und Wo?
+64
+(Schallmo 2017)
+64
+
+Was ist eine Persona?
+Potentieller User / Nutzer = der das Service / Produkt verwenden wird
+Zielgruppe widerspiegeln (Kaufpreis etc)
+Imaginär
+
+
+Repräsentiert die Needs
+Möglicher Kunde / Nutzer
+Annahmen über die User sollen repräsentiert sein
+Spezifisches Beispiel einer Persönlichkeit
+Ausdifferenziert
+Gesicht zu Informationen
+Auf Daten basiert
+
+66
+Personas
+Designing a product without understanding your users is like packing for a trip without considering your destination — both may end in an unpleasant surprise that could have been avoided with a little forethought.
+
+
+Nielsen Norman Group
+
+Typische Kundengruppen aus einer eher subjektiven Wahrnehmung beschreiben 
+Augenmerk auf Faktoren legen, die in Datenmodellen eher selten verfügbar sind: 
+Emotionen, Motivationen, Bedürfnisse der Adressaten und... 
+daraus resultierende Schmerzpunkte in der Kundenbeziehung 
+verknüpft mit klassisch soziodemografischen Merkmalen und
+weiteren im jeweiligen Business relevanten Datenpunkten
+Personas
+
+68
+Kim Flaherty
+What are personas and why should I care?
+(2:41 min)
+Personas
+
+Checkliste Persona 
+Name, Age 
+Tag Line (motto of life)
+Quote (on the product) 
+Family, marital status
+Place of residence 
+Company 
+Position  
+Typical activities
+Important atypical activities
+Challenges & pain points 
+Responsibilities
+Professional and private equipment 
+"A day in the life" description 
+Specific places of use
+
+
+
+Household and leisure activities 
+Relationship to other personas 
+Interactions with other personas, systems and products 
+General technical knowledge & (computer) usage 
+Frequently used products
+Fields of expertise 
+Special knowledge 
+Knowledge about competitors/competitive offers 
+Characteristics
+Values and attitudes (political and religious) 
+Fears, obstacles, annoyances
+
+Personal artifacts (things with special meaning for the persona) 
+Life goals short, medium & long term 
+Objectives related to a specific product/service
+Work related goals 
+Basic goals in life, longings
+
+
+70
+
+71
+71
+
+Challenge Assignment #1 
+Ihre startet als Consulting Team
+Congrats! Ihr startet als Innovations-Consultants!
+Eure erste Challenge: VERSTEHEN (siehe Design Thinking). Jedes Consulting Team hat eine Problemstellung für Unternehmen in Österreich zugeordnet bekommen.
+
+#1 Problem: Bitte recherchiert zu jedem Problem und entwickelt zu jedem Problem vier Slides mit mehr Informationen zu dem Problem und Quellen (mind. 5). 
+Ziel: VERSTEHEN des Problems - in die Tiefe. 
+
+#2 Prozess: Bitte erstellt zwei Slides über den Prozess der Recherche - welche Blogs, Artikel, Bücher, Quellen, KI Tools habt ihr WIE genutzt? Was war sinnvoll - was nicht? 
+
+Bitte die Slides für nächsten Termin im Moodle abgeben und bereit zur Präsentation sein. 
+
+
+
+72
+72
+
+Description
+The 6-3-5 Method was developed in 1968 by Professor Bernd Rohbach. It works quite spontaneously, with little preparation. It also offers a guarantee of success with untrained participants. As a problem-solving method, this technique particularly promotes the generation of new, unusual ideas or solutions in a group of people. Within a short period of time, a maximum of 108 ideas are generated with 6-3-5. The title resulted from the optimal way 6 participants, who each produce 3 initial ideas and then each develop 5 times 3 initial or derived ideas (6 participants, 3 ideas each, times 5).
+6-3-5 Methode
+73
+73
+
+Brainwriting 6-3-5-Methode
+6 Teilnehmer / 3 Ideen / 5 Min. Zeit
+Sechs Teilnehmer produzieren pro Runde jeweils drei Ideen und haben dafür fünf Minuten Zeit
+Nach sechs Runden und 30 Minuten Zeiteinsatz hat die Gruppe insgesamt 108 Ideen entwickelt
+auch in anderer Gruppengröße und mit einem anderen Zeitfaktor durchführen
+74
+74
+
+Brainwriting 6-3-5-Methode
+6 Teilnehmer / 3 Ideen / 5 Min. Zeit
+75
+75
+
+Findings
+6-3-5 Method
+76
+76
+
+Learnings
+A3 worksheets: It has been shown that worksheets in “DIN A3 landscape” format are an ideal size. This format allows longer sentences per idea to be entered in the boxes. This size is also convenient for creating a gallery of ideas on a wall with the completed worksheets.
+Advantage equals disadvantage: An advantage of the 6-3-5 is that you generated 108 ideas in 30 minutes. However, 108 ideas have now been generated! These are distributed on six pieces of paper in relatively small boxes. Having to evaluate these will be a challenge for some participants. The best approach is to briefly read out all ideas in the group and then identify repeated, good or combination possibilities. This process takes longer than the generation of solutions, but people start talking and often come up with more ideas.
+Very direct feedback: There is a very direct feedback and many ideas in a relatively short time. The ideas are not talked about early on and even quieter participants get a good chance to contribute.
+Six participants: Six participants are ideal, but more are possible.
+30 to 50 minutes expected time: An application period of 30 to 50 minutes is quite common.
+Fewer ideas are enough, too: It is not mandatory to contribute 3 more ideas each. If a participant can’t think of anything else, they can’t think of anything. Period. This will then be accepted by all other participants. In contrast to brainstorming, 6-3-5 Method can also be used for more complex problems that would fail due to the spontaneity and unsystematic approach of a group discussion.
+6-3-5 Method
+77
+77
+
+Challenge Assignment #1 
+Ihre startet als Consulting Team
+Congrats! Ihr startet als Innovations-Consultants!
+Verteilen Sie Rollen (Leader; je nachdem welche Rollen sie vergeben wollen)
+
+Eure erste Challenge: VERSTEHEN (siehe Design Thinking). Sie müssen das existierende Unternehmen mit einer RADIKALEN INNOVATION disruptieren. Denken Sie zuerst nicht an die Lösung, sondern wir beginnen mit dem Problem.
+
+#1 Problem: Bitte recherchieren Sie die Probleme die die Unternehmen lösen (für welche Kunden, Segmentierung wichtig) und entwickelt zu jedem Problem einen Lean Canvas mit mehr Informationen zu dem Kundenproblem und wie es derzeit vom Unternehmen gelöst wird. Erstellen Sie dazu 4-5 Slides abhängig von der Anzahl der Probleme und Quellen (mind. 5 je Slide in den Lecture Notes). Die Slide soll den Lean Canvas zu dem Problem abbilden. Die Felder des Lean Canvas sollen vollständig und korrekt sein. Priorisieren Sie die Probleme - welches Problem erscheint am zielführendsten zu bearbeiten?
+Ziel: VERSTEHEN des Problems - in die Tiefe. Überdies: Verstehen des aktuellen Business.
+
+#2 Prozess: Bitte erstellt zwei Slides über den Prozess der Recherche - welche Blogs, Artikel, Bücher, Quellen, KI Tools habt ihr WIE genutzt? Was war sinnvoll - was nicht? 
+
+Bitte die Slides für nächsten Termin im Moodle abgeben und bereit zur Präsentation sein. 
+
+
+
+78
+78
+
+Teil 1 des Assignment 2
+Ihr Chef ist zufrieden - sie haben das Assignment 1 gelöst. Ihr Consulting Team muss nun den nächsten Schritt machen:
+
+
+Teil 1 Reflektieren Sie das Innovator’s Dilemma - welche Unternehmen leiden unter dem von Ihnen aufgedeckten Problem. Nennen und beschreiben Sie auf 2 Slides und warum Sie am Innovator’s Dilemma leiden. Beschreiben Sie die Probleme. Wählen Sie hiermit ihre Zielkunden aus.
+
+
+
+
+
+
+
+79
+79
+
+Innovators Dilemma
+
+
+80
+80
+
+Assignment #2 – DEFINE & DISRUPT
+Ihr habt das Unternehmen verstanden. Jetzt definiert ihr das Problem und beginnt die Disruption.
+
+Für den nächsten Termin erstellt ihr Slides zu:
+Root Problem: Ursache + Evidenz / Annahmen
+Stakeholder: Wer hat den stärksten Pain?
+Problem Persona: Job, Pain, heutige Lösung, gewünschtes Ergebnis
+Finales Problem Statement
+Kill the Company: eure stärksten disruptiven Ideen
+AI: Wie wurden eure Ideen weiterentwickelt?
+
+Ziel: Ein klar definiertes Problem + 3 starke Disruptionsideen.
+
+INNOVATORS DILEMMA Teil des Assignement 2
+81
+81
+
+1 Challenge the Problem
+Nehmt das priorisierte Problem aus Assignment #1.
+
+• Schreibt das Problem in einem Satz auf.
+• Fragt mindestens 3-mal: Warum entsteht dieses Problem?
+• Trennt bei jeder Antwort: Was wissen wir aus Quellen? Was nehmen wir nur an?
+• Formuliert am Ende die eigentliche Ursache des Problems.
+
+Output: 1 Root Problem + wichtigste Evidenz und Annahmen
+82
+82
+
+2 Who owns the Pain?
+Wer leidet wirklich unter eurem Problem?
+
+• Identifiziert 5–8 Stakeholder im oder rund um das Unternehmen.
+• Bewertet jeden Stakeholder von 1–5: Pain, Einfluss, Bereitschaft zur Veränderung.
+• Diskutiert die Unterschiede im Team.
+• Wählt EINEN Stakeholder aus, dessen Problem ihr weiterbearbeitet.
+
+Output: Stakeholder-Liste + ausgewählter Haupt-Stakeholder
+83
+83
+
+3 Problem Persona
+Versteht jetzt euren ausgewählten Stakeholder genauer.
+
+Beschreibt kurz:
+• WHO? Wer ist die Person / Rolle?
+• JOB? Was möchte sie erreichen?
+• PAIN? Was hindert sie daran?
+• CURRENT SOLUTION? Wie löst sie das Problem heute?
+• FRUSTRATION? Was funktioniert dabei schlecht?
+• DESIRED OUTCOME? Was wäre für sie deutlich besser?
+
+Output: 1 Problem Persona
+84
+84
+
+4 Problem Statement Battle
+Jetzt definiert ihr das Problem, das ihr wirklich lösen wollt.
+
+• Jede Person formuliert ALLEINE ein Problem Statement.
+• Nutzt: [Stakeholder] möchte [Ziel], kann dies aber nicht gut, weil [Ursache]. Dadurch entsteht [Konsequenz].
+• Vergleicht eure 5 Statements.
+• Bewertet: Relevanz, Evidenz, Pain und Disruptionspotenzial.
+• Formuliert gemeinsam EIN finales Problem Statement.
+
+Output: 5 Statements → 1 finales Problem Statement
+85
+85
+
+5 Kill the Company!
+Jetzt beginnt der Lösungsraum. Denkt bewusst RADIKAL.
+Leitfrage:
+Welche Innovation könnte dazu führen, dass Kunden euer Unternehmen in 5 Jahren nicht mehr brauchen?
+
+• Jede Person entwickelt zuerst ALLEINE 2 Ideen.
+• Keine Verbesserung des bestehenden Produkts.
+• Denkt an neue Technologien, Prozesse und Geschäftsmodelle.
+• Stellt euch anschließend eure Ideen vor.
+
+Output: mindestens 10 disruptive Ideen
+86
+86
+
+6 AI: Make it more disruptive!
+Nutzt AI jetzt als Ideen-Verstärker.
+
+• Gebt der AI euer finales Problem Statement und eure 10 Ideen.
+• Lasst die AI Ideen kombinieren, radikalisieren oder aus einer anderen Branche neu denken.
+• Prüft kritisch: Ist die neue Idee wirklich besser und disruptiver?
+• Wählt gemeinsam eure 3 stärksten Ideen.
+• Dokumentiert: Was kam von euch? Was hat AI verändert?
+
+Output: 3 weiterentwickelte Disruptionsideen
+87
+87
