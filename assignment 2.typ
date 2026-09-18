@@ -112,4 +112,4 @@ _Haupt-Stakeholder:_ Online-Händler.
 - Rohrpost zwischen den größten Lagerorten (tief unterirdisch)
 - 3D-Drucker, die alles zuhause drucken können — Produkte müssen nicht mehr verschickt werden, sondern werden direkt zuhause produziert
 
-*Output:* mindestens 10 disruptive Ideen — **ausstehend**.
+*Output:* mindestens 10 disruptive Ideen — *ausstehend*.
